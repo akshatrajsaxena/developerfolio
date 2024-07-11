@@ -20,7 +20,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Competitive Programmer</h3>
               <p>
-                I do <a href="https://codeforces.com/profile/Baski_Flex" style={{ color: 'white', textDecoration: 'underline' }}> Competitive Programming </a> Regularly. I have a good Codeforces in which I am a Pupil and my max is Specialist. I have also participated in HackOn with Amazon Hackathons Organised by Amazon. Check my  <a href="https://codeforces.com/profile/Baski_Flex">Codeforces Profile</a>
+                I do <a href="https://codeforces.com/profile/Baski_Flex" style={{ color: 'White', textDecoration: 'underline' }}> Competitive Programming </a> regularly. I have a good Codeforces in which I am a Specialist and my max is Specialist. I have also participated in HackOn with Amazon Hackathons Organised by Amazon. Check my  <a href="https://codeforces.com/profile/Baski_Flex" style={{ color: 'cyan', textDecoration: 'underline' }}>Codeforces Profile</a>
               </p>
             </div>
           </li>

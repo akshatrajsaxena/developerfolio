@@ -35,6 +35,15 @@ export const Achievements = () => {
               </p>
             </div>
           </li>
+          <li className={styles.achievementsItem}>
+            <img src={getImageUrl("achievements/karateka.png")} alt="Trophy icon" className={styles.codeforcesImage} />
+            <div className={styles.achievementsItemText}>
+              <h3 style={{ color: "White" }}>KARATEKA</h3>
+              <p>
+                I have been practising Karate for last 16 years and have achieved the Black Belt 1st Dan. I have also participated in multiple state and national level championships and have won several medals. Karate has taught me discipline, focus and perseverance which has helped me in my professional life too.
+              </p>
+            </div>
+          </li>
         </ul>
       </div>
     </section>
