@@ -10,9 +10,10 @@
 </div>
 <br>
 
-# Portfolio Website
 
-Welcome to my portfolio website! This project showcases my skills, experiences, achievements and projects. Below you will find detailed information about the technologies used, file structure, responsiveness, and how to access my website.
+# Portfolio Website
+ 
+ **Welcome to my Portfolio code! the build of the code is done mainly in Javascript using react Framework.** This project showcases my skills, experiences, achievements and projects. Below you will find detailed information about the technologies used, file structure, responsiveness, and how to access my website.
 
 ## Why I Use React Framework
 
@@ -106,5 +107,3 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-Welcome to my Portfolio code, the build of the code is done mainly in Javascript using react Framework.
