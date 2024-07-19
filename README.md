@@ -38,11 +38,11 @@ The project is organized into several components and directories for better main
 Main Components
 
 ```
-    App.js: The root component that includes the main layout and routing.
-    Header.js: Displays the navigation bar and logo.
-    Footer.js: Contains the footer content.
-    Experience.js: Showcases my skills and professional history.
-    Projects.js: Lists my personal and professional projects.
+App.js: The root component that includes the main layout and routing.
+Header.js: Displays the navigation bar and logo.
+Footer.js: Contains the footer content.
+Experience.js: Showcases my skills and professional history.
+Projects.js: Lists my personal and professional projects.
 ```
 # Wanna Visit my Website
 [My PortFolio](https://akshatrajsaxena.netlify.app/)
