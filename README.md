@@ -91,8 +91,7 @@ Above is the main my homepage which is currently in development and being update
 
 ## LICENSE
 
-[MIT License](https://github.com/akshatrajsaxena/MyPortfolioReact/blob/main/LICENSE)
-
+[MIT License](https://github.com/akshatrajsaxena/developerfolio/blob/main/LICENSE)
 
 
 ## Contact
