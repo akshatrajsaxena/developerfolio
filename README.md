@@ -21,7 +21,7 @@ I chose React for this project due to its component-based architecture, which al
 
 ## Is the Website Responsive?
 
-No, the website is not responsive. You may have different view depending on your device.
+No, the website is not responsive. You may have different views depending on your device. This website was made by me to understand react JS framework, and I was intensely aware of its functionality.
 
 ## Project Structure
 
