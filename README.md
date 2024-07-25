@@ -10,7 +10,6 @@
 </div>
 <br>
 
-
 # Portfolio Website
  
  **Welcome to my Portfolio code! the build of the code is done mainly in Javascript using react Framework.** This project showcases my skills, experiences, achievements and projects. Below you will find detailed information about the technologies used, file structure, responsiveness, and how to access my website.
@@ -33,7 +32,6 @@ The project is organized into several components and directories for better main
     src/data: Contains JSON files with data for skills and history (now embedded directly in components).
     src/utils: Utility functions, like getImageUrl.
     public: Public assets and the main HTML file.
-
 
 Main Components
 
@@ -72,7 +70,6 @@ npm run dev
 
 Open http://localhost:3000  in your browser to view the website.
 
-
 ## What is the Purpose of This Website?
 
 The purpose of this website is to showcase my professional skills, work experience, and projects. It serves as an online portfolio for potential employers and collaborators to learn more about me and my work.
@@ -93,7 +90,6 @@ Above is the main my homepage which is currently in development and being update
 
 [MIT License](https://github.com/akshatrajsaxena/developerfolio/blob/main/LICENSE)
 
-
 ## Contact
 
 If you have any questions or would like to get in touch, you can reach me at [Akshat Raj Saxena](mailto:akshat22054@iiitd.ac.in)
@@ -101,7 +97,6 @@ If you have any questions or would like to get in touch, you can reach me at [Ak
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
