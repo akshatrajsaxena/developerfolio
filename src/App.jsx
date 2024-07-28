@@ -6,7 +6,6 @@ import { Hero } from "./components/Hero/Hero.jsx";
 import { Navbar } from "./components/Navbar/Navbar.jsx";
 import { Projects } from "./components/Projects/Projects.jsx";
 import { Achievements } from "./components/achievements/achievements.jsx";
-
 function App() {
   return (
     <div className={styles.App}>
