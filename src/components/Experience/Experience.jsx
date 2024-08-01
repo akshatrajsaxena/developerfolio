@@ -26,6 +26,14 @@ export const Experience = () => {
       experiences: ["Posted blogs for beginners", "Participated in many contests"],
       imageSrc: "achievements/codeforces.png"
     },
+    {
+      role: "Student Volunteer",
+      organisation: "Umeed",
+      startDate: "April 2024",
+      endDate: "May 2024",
+      experiences: ["Taught students in need", "Did community work"],
+      imageSrc: "achievements/umeed.png"
+    }
   ];
 
   return (
