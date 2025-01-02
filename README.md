@@ -10,6 +10,20 @@
 </div>
 <br>
 
+<p align="center">
+    An awesome project that optimizes the Nutrition Profile!
+    <br />
+    <strong>Explore the docs »</strong>
+    <br />
+    <br />
+    <a href="https://akshatrajsaxena.netlify.app/">View Demo</a>
+    ·
+    <a href="https://github.com/akshatrajsaxena/developerfolio/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/akshatrajsaxena/developerfolio/issues">Request Feature</a>
+    <br />
+</p>
+
 # Portfolio Website
  
  **Welcome to my Portfolio code! the build of the code is done mainly in Javascript using react Framework.** This project showcases my skills, experiences, achievements and projects. Below you will find detailed information about the technologies used, file structure, responsiveness, and how to access my website.
